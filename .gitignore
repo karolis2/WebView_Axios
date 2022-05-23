@@ -1,0 +1,6 @@
+out
+dist
+.vscode-test/
+*.vsix
+configViewer/configViewer.js
+/node_modules
